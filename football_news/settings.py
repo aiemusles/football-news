@@ -34,7 +34,7 @@ DEBUG = True
 ALLOWED_HOSTS = ["localhost", "127.0.0.1", "marco-imanuel-footballnews.pbp.cs.ui.ac.id"]
 
 CSRF_TRUSTED_ORIGINS = [
-    "https://marco-imanuel-mycleats.pbp.cs.ui.ac.id/"
+    "https://marco-imanuel-footballnews.pbp.cs.ui.ac.id/"
 ]
 
 
